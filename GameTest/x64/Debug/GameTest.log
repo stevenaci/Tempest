@@ -1,0 +1,15 @@
+﻿  GameTest.cpp
+  Enemy.cpp
+C:\Users\sc\Documents\Code\UbisoftChallenge\NextAPI2020\NextAPI2020\GameTest\Game\Enemy.cpp(17,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sc\Documents\Code\UbisoftChallenge\NextAPI2020\NextAPI2020\GameTest\Game\Enemy.cpp(22,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sc\Documents\Code\UbisoftChallenge\NextAPI2020\NextAPI2020\GameTest\Game\Enemy.cpp(27,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sc\Documents\Code\UbisoftChallenge\NextAPI2020\NextAPI2020\GameTest\Game\Enemy.cpp(32,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  EntityGenerator.cpp
+  Missle.cpp
+  Physics.cpp
+  Ship.cpp
+C:\Users\sc\Documents\Code\UbisoftChallenge\NextAPI2020\NextAPI2020\GameTest\Game\Ship.cpp(83,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  Generating Code...
+  GameTest.vcxproj -> C:\Users\sc\Documents\Code\UbisoftChallenge\NextAPI2020\NextAPI2020\x64\Debug\GameTest.exe
+  C:\Users\sc\Documents\Code\UbisoftChallenge\NextAPI2020\NextAPI2020\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
